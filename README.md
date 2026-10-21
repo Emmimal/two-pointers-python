@@ -203,7 +203,8 @@ The step-by-step explanation behind this code, including the trace of the pair
 sum, the decision flow for when two pointers does not work, and the practice
 problems, is in the tutorial on EmiTechLogic:
 
-[emitechlogic.com](https://emitechlogic.com/)
+[Two Pointers in Python: A Complete Problem-Solving Guide
+](https://emitechlogic.com/two-pointers-in-python/)
 
 ## Author
 
